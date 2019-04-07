@@ -1,1 +1,3 @@
+name: Nick's Blog
+markdown: kramdown
 theme: jekyll-theme-slate
